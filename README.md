@@ -6,6 +6,10 @@ Preprocessed data and calculated the summary statistics of different skin cancer
 Built a model which can evaluate images and detect the presence of melanoma.
 Technologies - Python, numpy, pandas, tensorflow, keras
 
+Acuuracy-
+Best Train Accuracy: 0.9187
+Best Best Validation Accuracy: 0.9237
+
 Dataset I took-
 https://drive.google.com/drive/folders/12YxihZ81X2SmgsgnYmM6N6fNM1cE5Dov?usp=sharing
 
